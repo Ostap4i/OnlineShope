@@ -1,0 +1,297 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\student\\Desktop\\WebApplication3\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F71CD310-2FF6-41C6-88C3-F536722D8090}|WebApplication3\\WebApplication3.csproj|c:\\users\\student\\desktop\\webapplication3\\webapplication3\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F71CD310-2FF6-41C6-88C3-F536722D8090}|WebApplication3\\WebApplication3.csproj|solutionrelative:webapplication3\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F71CD310-2FF6-41C6-88C3-F536722D8090}|WebApplication3\\WebApplication3.csproj|c:\\users\\student\\desktop\\webapplication3\\webapplication3\\model\\registerviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F71CD310-2FF6-41C6-88C3-F536722D8090}|WebApplication3\\WebApplication3.csproj|solutionrelative:webapplication3\\model\\registerviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F71CD310-2FF6-41C6-88C3-F536722D8090}|WebApplication3\\WebApplication3.csproj|c:\\users\\student\\desktop\\webapplication3\\webapplication3\\model\\loginviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F71CD310-2FF6-41C6-88C3-F536722D8090}|WebApplication3\\WebApplication3.csproj|solutionrelative:webapplication3\\model\\loginviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F71CD310-2FF6-41C6-88C3-F536722D8090}|WebApplication3\\WebApplication3.csproj|c:\\users\\student\\desktop\\webapplication3\\webapplication3\\entities\\class.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F71CD310-2FF6-41C6-88C3-F536722D8090}|WebApplication3\\WebApplication3.csproj|solutionrelative:webapplication3\\entities\\class.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F71CD310-2FF6-41C6-88C3-F536722D8090}|WebApplication3\\WebApplication3.csproj|c:\\users\\student\\desktop\\webapplication3\\webapplication3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F71CD310-2FF6-41C6-88C3-F536722D8090}|WebApplication3\\WebApplication3.csproj|solutionrelative:webapplication3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F71CD310-2FF6-41C6-88C3-F536722D8090}|WebApplication3\\WebApplication3.csproj|c:\\users\\student\\desktop\\webapplication3\\webapplication3\\entities\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F71CD310-2FF6-41C6-88C3-F536722D8090}|WebApplication3\\WebApplication3.csproj|solutionrelative:webapplication3\\entities\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F71CD310-2FF6-41C6-88C3-F536722D8090}|WebApplication3\\WebApplication3.csproj|c:\\users\\student\\desktop\\webapplication3\\webapplication3\\migrations\\applicationdbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F71CD310-2FF6-41C6-88C3-F536722D8090}|WebApplication3\\WebApplication3.csproj|solutionrelative:webapplication3\\migrations\\applicationdbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F71CD310-2FF6-41C6-88C3-F536722D8090}|WebApplication3\\WebApplication3.csproj|c:\\users\\student\\desktop\\webapplication3\\webapplication3\\migrations\\20241111191104_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F71CD310-2FF6-41C6-88C3-F536722D8090}|WebApplication3\\WebApplication3.csproj|solutionrelative:webapplication3\\migrations\\20241111191104_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F71CD310-2FF6-41C6-88C3-F536722D8090}|WebApplication3\\WebApplication3.csproj|c:\\users\\student\\desktop\\webapplication3\\webapplication3\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{F71CD310-2FF6-41C6-88C3-F536722D8090}|WebApplication3\\WebApplication3.csproj|solutionrelative:webapplication3\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F71CD310-2FF6-41C6-88C3-F536722D8090}|WebApplication3\\WebApplication3.csproj|c:\\users\\student\\desktop\\webapplication3\\webapplication3\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F71CD310-2FF6-41C6-88C3-F536722D8090}|WebApplication3\\WebApplication3.csproj|solutionrelative:webapplication3\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F71CD310-2FF6-41C6-88C3-F536722D8090}|WebApplication3\\WebApplication3.csproj|c:\\users\\student\\desktop\\webapplication3\\webapplication3\\entities\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F71CD310-2FF6-41C6-88C3-F536722D8090}|WebApplication3\\WebApplication3.csproj|solutionrelative:webapplication3\\entities\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F71CD310-2FF6-41C6-88C3-F536722D8090}|WebApplication3\\WebApplication3.csproj|c:\\users\\student\\desktop\\webapplication3\\webapplication3\\model\\applicationorderservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F71CD310-2FF6-41C6-88C3-F536722D8090}|WebApplication3\\WebApplication3.csproj|solutionrelative:webapplication3\\model\\applicationorderservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F71CD310-2FF6-41C6-88C3-F536722D8090}|WebApplication3\\WebApplication3.csproj|c:\\users\\student\\desktop\\webapplication3\\webapplication3\\model\\applicationlogservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F71CD310-2FF6-41C6-88C3-F536722D8090}|WebApplication3\\WebApplication3.csproj|solutionrelative:webapplication3\\model\\applicationlogservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F71CD310-2FF6-41C6-88C3-F536722D8090}|WebApplication3\\WebApplication3.csproj|c:\\users\\student\\desktop\\webapplication3\\webapplication3\\model\\iorderservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F71CD310-2FF6-41C6-88C3-F536722D8090}|WebApplication3\\WebApplication3.csproj|solutionrelative:webapplication3\\model\\iorderservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F71CD310-2FF6-41C6-88C3-F536722D8090}|WebApplication3\\WebApplication3.csproj|c:\\users\\student\\desktop\\webapplication3\\webapplication3\\controllers\\ordercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F71CD310-2FF6-41C6-88C3-F536722D8090}|WebApplication3\\WebApplication3.csproj|solutionrelative:webapplication3\\controllers\\ordercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F71CD310-2FF6-41C6-88C3-F536722D8090}|WebApplication3\\WebApplication3.csproj|c:\\users\\student\\desktop\\webapplication3\\webapplication3\\model\\ilogservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F71CD310-2FF6-41C6-88C3-F536722D8090}|WebApplication3\\WebApplication3.csproj|solutionrelative:webapplication3\\model\\ilogservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F71CD310-2FF6-41C6-88C3-F536722D8090}|WebApplication3\\WebApplication3.csproj|c:\\users\\student\\desktop\\webapplication3\\webapplication3\\webapplication3.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{F71CD310-2FF6-41C6-88C3-F536722D8090}|WebApplication3\\WebApplication3.csproj|solutionrelative:webapplication3\\webapplication3.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AccountController.cs",
+              "DocumentMoniker": "C:\\Users\\student\\Desktop\\WebApplication3\\WebApplication3\\Controllers\\AccountController.cs",
+              "RelativeDocumentMoniker": "WebApplication3\\Controllers\\AccountController.cs",
+              "ToolTip": "C:\\Users\\student\\Desktop\\WebApplication3\\WebApplication3\\Controllers\\AccountController.cs",
+              "RelativeToolTip": "WebApplication3\\Controllers\\AccountController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-29T17:25:25.157Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "LoginViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\student\\Desktop\\WebApplication3\\WebApplication3\\Model\\LoginViewModel.cs",
+              "RelativeDocumentMoniker": "WebApplication3\\Model\\LoginViewModel.cs",
+              "ToolTip": "C:\\Users\\student\\Desktop\\WebApplication3\\WebApplication3\\Model\\LoginViewModel.cs",
+              "RelativeToolTip": "WebApplication3\\Model\\LoginViewModel.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABIAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-29T17:13:53.913Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "RegisterViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\student\\Desktop\\WebApplication3\\WebApplication3\\Model\\RegisterViewModel.cs",
+              "RelativeDocumentMoniker": "WebApplication3\\Model\\RegisterViewModel.cs",
+              "ToolTip": "C:\\Users\\student\\Desktop\\WebApplication3\\WebApplication3\\Model\\RegisterViewModel.cs",
+              "RelativeToolTip": "WebApplication3\\Model\\RegisterViewModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB4AAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-29T17:09:48.191Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Class.cs",
+              "DocumentMoniker": "C:\\Users\\student\\Desktop\\WebApplication3\\WebApplication3\\Entities\\Class.cs",
+              "RelativeDocumentMoniker": "WebApplication3\\Entities\\Class.cs",
+              "ToolTip": "C:\\Users\\student\\Desktop\\WebApplication3\\WebApplication3\\Entities\\Class.cs",
+              "RelativeToolTip": "WebApplication3\\Entities\\Class.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-29T16:59:44.396Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ApplicationDBContextModelSnapshot.cs",
+              "DocumentMoniker": "C:\\Users\\student\\Desktop\\WebApplication3\\WebApplication3\\Migrations\\ApplicationDBContextModelSnapshot.cs",
+              "RelativeDocumentMoniker": "WebApplication3\\Migrations\\ApplicationDBContextModelSnapshot.cs",
+              "ToolTip": "C:\\Users\\student\\Desktop\\WebApplication3\\WebApplication3\\Migrations\\ApplicationDBContextModelSnapshot.cs",
+              "RelativeToolTip": "WebApplication3\\Migrations\\ApplicationDBContextModelSnapshot.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-11T19:11:19.854Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "20241111191104_InitialCreate.cs",
+              "DocumentMoniker": "C:\\Users\\student\\Desktop\\WebApplication3\\WebApplication3\\Migrations\\20241111191104_InitialCreate.cs",
+              "RelativeDocumentMoniker": "WebApplication3\\Migrations\\20241111191104_InitialCreate.cs",
+              "ToolTip": "C:\\Users\\student\\Desktop\\WebApplication3\\WebApplication3\\Migrations\\20241111191104_InitialCreate.cs",
+              "RelativeToolTip": "WebApplication3\\Migrations\\20241111191104_InitialCreate.cs",
+              "ViewState": "AQIAABkAAAAAAAAAAAAgwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-11T19:11:16.894Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Product.cs",
+              "DocumentMoniker": "C:\\Users\\student\\Desktop\\WebApplication3\\WebApplication3\\Entities\\Product.cs",
+              "RelativeDocumentMoniker": "WebApplication3\\Entities\\Product.cs",
+              "ToolTip": "C:\\Users\\student\\Desktop\\WebApplication3\\WebApplication3\\Entities\\Product.cs",
+              "RelativeToolTip": "WebApplication3\\Entities\\Product.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-11T18:42:25.99Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ApplicationDBContext.cs",
+              "DocumentMoniker": "C:\\Users\\student\\Desktop\\WebApplication3\\WebApplication3\\ApplicationDBContext.cs",
+              "RelativeDocumentMoniker": "WebApplication3\\ApplicationDBContext.cs",
+              "ToolTip": "C:\\Users\\student\\Desktop\\WebApplication3\\WebApplication3\\ApplicationDBContext.cs",
+              "RelativeToolTip": "WebApplication3\\ApplicationDBContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-11T18:36:52.545Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\student\\Desktop\\WebApplication3\\WebApplication3\\appsettings.json",
+              "RelativeDocumentMoniker": "WebApplication3\\appsettings.json",
+              "ToolTip": "C:\\Users\\student\\Desktop\\WebApplication3\\WebApplication3\\appsettings.json",
+              "RelativeToolTip": "WebApplication3\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAABJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-11-11T17:21:26.569Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "OrderController.cs",
+              "DocumentMoniker": "C:\\Users\\student\\Desktop\\WebApplication3\\WebApplication3\\Controllers\\OrderController.cs",
+              "RelativeDocumentMoniker": "WebApplication3\\Controllers\\OrderController.cs",
+              "ToolTip": "C:\\Users\\student\\Desktop\\WebApplication3\\WebApplication3\\Controllers\\OrderController.cs",
+              "RelativeToolTip": "WebApplication3\\Controllers\\OrderController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAA1AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-11T17:11:00.407Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "ApplicationOrderService.cs",
+              "DocumentMoniker": "C:\\Users\\student\\Desktop\\WebApplication3\\WebApplication3\\Model\\ApplicationOrderService.cs",
+              "RelativeDocumentMoniker": "WebApplication3\\Model\\ApplicationOrderService.cs",
+              "ToolTip": "C:\\Users\\student\\Desktop\\WebApplication3\\WebApplication3\\Model\\ApplicationOrderService.cs",
+              "RelativeToolTip": "WebApplication3\\Model\\ApplicationOrderService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAIAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-11T17:03:36.151Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "IOrderService.cs",
+              "DocumentMoniker": "C:\\Users\\student\\Desktop\\WebApplication3\\WebApplication3\\Model\\IOrderService.cs",
+              "RelativeDocumentMoniker": "WebApplication3\\Model\\IOrderService.cs",
+              "ToolTip": "C:\\Users\\student\\Desktop\\WebApplication3\\WebApplication3\\Model\\IOrderService.cs",
+              "RelativeToolTip": "WebApplication3\\Model\\IOrderService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAMAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-11T17:02:38.213Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "ApplicationLogService.cs",
+              "DocumentMoniker": "C:\\Users\\student\\Desktop\\WebApplication3\\WebApplication3\\Model\\ApplicationLogService.cs",
+              "RelativeDocumentMoniker": "WebApplication3\\Model\\ApplicationLogService.cs",
+              "ToolTip": "C:\\Users\\student\\Desktop\\WebApplication3\\WebApplication3\\Model\\ApplicationLogService.cs",
+              "RelativeToolTip": "WebApplication3\\Model\\ApplicationLogService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-11T17:00:23.019Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\student\\Desktop\\WebApplication3\\WebApplication3\\Program.cs",
+              "RelativeDocumentMoniker": "WebApplication3\\Program.cs",
+              "ToolTip": "C:\\Users\\student\\Desktop\\WebApplication3\\WebApplication3\\Program.cs",
+              "RelativeToolTip": "WebApplication3\\Program.cs",
+              "ViewState": "AQIAABUAAAAAAAAAAAAAAA4AAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-11T16:44:13.335Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Order.cs",
+              "DocumentMoniker": "C:\\Users\\student\\Desktop\\WebApplication3\\WebApplication3\\Entities\\Order.cs",
+              "RelativeDocumentMoniker": "WebApplication3\\Entities\\Order.cs",
+              "ToolTip": "C:\\Users\\student\\Desktop\\WebApplication3\\WebApplication3\\Entities\\Order.cs",
+              "RelativeToolTip": "WebApplication3\\Entities\\Order.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-11T18:41:08.95Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "ILogService.cs",
+              "DocumentMoniker": "C:\\Users\\student\\Desktop\\WebApplication3\\WebApplication3\\Model\\ILogService.cs",
+              "RelativeDocumentMoniker": "WebApplication3\\Model\\ILogService.cs",
+              "ToolTip": "C:\\Users\\student\\Desktop\\WebApplication3\\WebApplication3\\Model\\ILogService.cs",
+              "RelativeToolTip": "WebApplication3\\Model\\ILogService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAQAAAAXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-11T16:58:57.664Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "WebApplication3.csproj",
+              "DocumentMoniker": "C:\\Users\\student\\Desktop\\WebApplication3\\WebApplication3\\WebApplication3.csproj",
+              "RelativeDocumentMoniker": "WebApplication3\\WebApplication3.csproj",
+              "ToolTip": "C:\\Users\\student\\Desktop\\WebApplication3\\WebApplication3\\WebApplication3.csproj",
+              "RelativeToolTip": "WebApplication3\\WebApplication3.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-11-11T16:58:25.444Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
